@@ -1,0 +1,12 @@
+C:\Users\Ömer\source\repos\Pc_Shutdown_Program\Pc_Shutdown_Program\bin\Debug\Pc_Shutdown_Program.exe.config
+C:\Users\Ömer\source\repos\Pc_Shutdown_Program\Pc_Shutdown_Program\bin\Debug\Pc_Shutdown_Program.exe
+C:\Users\Ömer\source\repos\Pc_Shutdown_Program\Pc_Shutdown_Program\bin\Debug\Pc_Shutdown_Program.pdb
+C:\Users\Ömer\source\repos\Pc_Shutdown_Program\Pc_Shutdown_Program\obj\Debug\Pc_Shutdown_Program.csprojAssemblyReference.cache
+C:\Users\Ömer\source\repos\Pc_Shutdown_Program\Pc_Shutdown_Program\obj\Debug\Pc_Shutdown_Program.Form1.resources
+C:\Users\Ömer\source\repos\Pc_Shutdown_Program\Pc_Shutdown_Program\obj\Debug\Pc_Shutdown_Program.Properties.Resources.resources
+C:\Users\Ömer\source\repos\Pc_Shutdown_Program\Pc_Shutdown_Program\obj\Debug\Pc_Shutdown_Program.csproj.GenerateResource.cache
+C:\Users\Ömer\source\repos\Pc_Shutdown_Program\Pc_Shutdown_Program\obj\Debug\Pc_Shutdown_Program.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\source\repos\Pc_Shutdown_Program\Pc_Shutdown_Program\obj\Debug\Pc_Shutdown_Program.exe
+C:\Users\Ömer\source\repos\Pc_Shutdown_Program\Pc_Shutdown_Program\obj\Debug\Pc_Shutdown_Program.pdb
+C:\Users\Ömer\source\repos\Pc_Shutdown_Program\Pc_Shutdown_Program\bin\Debug\MaterialSkin.dll
+C:\Users\Ömer\source\repos\Pc_Shutdown_Program\Pc_Shutdown_Program\obj\Debug\Pc_Shutdown_Program.csproj.CopyComplete
