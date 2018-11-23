@@ -61,8 +61,8 @@ namespace Pc_Shutdown_Program
             }
             else
             {
-
-                if (textBox1.Text != "")
+                int kontrol =( int.Parse(textBox1.Text));
+                if (textBox1.Text != "" && kontrol >=1)
                 {
                     try
                     {
@@ -71,7 +71,7 @@ namespace Pc_Shutdown_Program
 
                         int saat=Convert.ToInt32(deger/60);//saat değeri aldık 1,4548458...
 
-                        double kalan =(deger%60); //modu aldık ki 65 girilirse kalan 5 dakika olacak
+                        double kalan =(deger%60); //modu aldık ki 65 girilirse kalan (5) dakika olacak
                         double milisaniye = (deger*60);
 
                        System.Diagnostics.Process.Start("CMD.exe", "/C shutdown -s -t " + milisaniye);
@@ -93,6 +93,7 @@ namespace Pc_Shutdown_Program
                     textBox1.Enabled = true;
                 
                     MessageBox.Show("Bilgisayarınız 1 saat sonra kapatılacaktır.\n", " Bilgi", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    
                 }
 
             }
@@ -159,7 +160,7 @@ namespace Pc_Shutdown_Program
 
             textBox1.BackColor = Color.White;
             textBox1.Focus();
-            label2.Enabled = true;
+            label2.Visible = true;
 
            
 
